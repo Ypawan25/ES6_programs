@@ -10,4 +10,4 @@ const lunchMenu = function() {
 
 const dinnerMenu = food => `I'm going to eat a ${food} for dinner`;
 
-console.log( dinnerMenu("chicken salad") );
+console.log( dinnerMenu("chicken salad") ); 
